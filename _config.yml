@@ -1,9 +1,8 @@
 layout_spectrum: 0.2042553
-typography_spectrum: 0.4893617
 color:
   saturation: 0.6489362
   lightness: 0.5808511
-  brandStrength: 0.4898375
+  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#030303'
@@ -11,4 +10,5 @@ color:
     - '#3A3A3A'
     - '#BEBEBE'
   rhythmicContrast: 0.8846123
+typography_spectrum: 0.4893617
 name: HMC
